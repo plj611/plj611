@@ -17,7 +17,6 @@ jobs:
       - name: Run Update README
         run: |-
           python update_readme.py
-          - name: Commit and push if changed
       - name: Commit to repo
         run: |-
           git diff
