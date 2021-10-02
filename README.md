@@ -6,3 +6,9 @@
    <!-- Activities start -->
 - Aug 2021 - <a href='#' target='_blank'>Business partners API integration</a><br>
 - Aug 2021 - <a href='https://book.douban.com/subject/34787347/' target='_blank'>Reading Python for DevOps</a><br><!-- Activities end -->
+
+<br>
+<hr size='8' width='90%'>
+<!-- Updatetime start -->
+This README was last updated at 10/02/2021 07:40 UTC by Github Actions
+<!-- Updatetime end -->
