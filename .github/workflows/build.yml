@@ -17,3 +17,13 @@ jobs:
       - name: Run Update README
         run: |-
           python update_readme.py
+          - name: Commit and push if changed
+      - name: Commit to repo
+        run: |-
+          git diff
+          git config --global user.email "plj611@outlook.com"
+          git config --global user.name "plj611-autobot"
+          git pull
+          git add -A
+          git commit -m "Update README" || exit 0
+          git push
