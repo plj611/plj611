@@ -1,3 +1,5 @@
+import re
+
 def get_activities():
     '''
     Get the latest 3 activities from activities.txt
@@ -12,5 +14,13 @@ def get_activities():
     acts = '\n'.join(arr)
     return acts
     
+def update_me(section, me, contents):
+    reexp = f"(?P<Part1><!-- {section} start -->\n)(?P<Part2>[\s\S]+)(?P<Part3><!-- {section} end -->)"
+    return re.sub(reexp, f"\g<Part1>{contents}\g<Part3>", me)
+
 if __name__ == '__main__':
-    print(get_activities())
+    acts = get_activities()
+    me = ' '.join(open('README.md').readlines())
+    fd_me = open('README.md', 'w')
+    fd_me.write(update_me('Activities', me, acts))
+    fd_me.close()
