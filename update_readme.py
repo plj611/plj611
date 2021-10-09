@@ -24,7 +24,7 @@ def update_me(section, me, contents):
     return re.sub(reexp, f"\g<Part1>{contents}\g<Part3>", me)
 
 if __name__ == '__main__':
-    me = ' '.join(open('README.md').readlines())
+    me = ''.join(open('README.md').readlines())
 
     acts = get_activities()
     newme = update_me('Activities', me ,acts)
