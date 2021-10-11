@@ -26,7 +26,7 @@ def update_me(section, me, contents):
 
 if __name__ == '__main__':
     print('===')
-    print(os.getenv(DAY_OF_WEEK))
+    print(os.getenv('DAY_OF_WEEK'))
     print('===')
     me = ''.join(open('README.md').readlines())
 
