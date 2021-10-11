@@ -1,5 +1,6 @@
 import re
 from datetime import datetime
+import os
 
 def get_activities():
     '''
@@ -24,6 +25,9 @@ def update_me(section, me, contents):
     return re.sub(reexp, f"\g<Part1>{contents}\g<Part3>", me)
 
 if __name__ == '__main__':
+    print('===')
+    print(os.getenv(DAY_OF_WEEK))
+    print('===')
     me = ''.join(open('README.md').readlines())
 
     acts = get_activities()
