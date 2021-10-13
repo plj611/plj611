@@ -9,7 +9,10 @@
 - Aug 2021 - <a href='https://book.douban.com/subject/34787347/' target='_blank'>Reading Python for DevOps</a><br><!-- Activities end -->
 <br>
 <!-- Weather start -->
-<!-- Weather end -->
+As of last update, the weather in Shenzhen :- <br>
+It is 25.8 &#8451;, heavy intensity rain<br>
+Wind speed is 0.5 m/s<br>
+Local date time is 10/13/2021 16:15<br><!-- Weather end -->
 <hr size='8' width='90%'>
 <!-- Updatetime start -->
-This README was last updated at 10/13/2021 06:36 UTC by Github Actions<!-- Updatetime end -->
+This README was last updated at 10/13/2021 08:15 UTC by Github Actions<!-- Updatetime end -->
