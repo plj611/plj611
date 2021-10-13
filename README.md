@@ -9,6 +9,10 @@
 - Aug 2021 - <a href='https://book.douban.com/subject/34787347/' target='_blank'>Reading Python for DevOps</a><br><!-- Activities end -->
 <br>
 <!-- Weather start -->
+As of last update, the weather in Shenzhen :- <br>
+It is 34 &#8451;, light rain<br>
+Wind speed is 10 m/s<br>
+Local date time is 2021/10/9 13:05<br>
 <!-- Weather end -->
 <hr size='8' width='90%'>
 <!-- Updatetime start -->
