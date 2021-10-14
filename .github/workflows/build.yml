@@ -8,7 +8,7 @@ jobs:
   start-update:
     runs-on: ubuntu-latest
     env:
-      DAY_OF_WEEK: Mon
+      OPENWEATHER_KEY: ${{ secrets.OPENWEATHER_KEY }}
     steps:
       - name: Checkout the repo
         uses: actions/checkout@v2
