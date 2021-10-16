@@ -10,9 +10,9 @@
 <br>
 <!-- Weather start -->
 As of last update, the weather in Shenzhen :- <br>
-It is 25.2 &#8451;, light rain<br>
-Wind speed is 7.2 m/s<br>
-Local date time is 10/16/2021 20:45<br><!-- Weather end -->
+It is 24.1 &#8451;, light rain<br>
+Wind speed is 6.1 m/s<br>
+Local date time is 10/17/2021 02:34<br><!-- Weather end -->
 <hr size='8' width='90%'>
 <!-- Updatetime start -->
-This README was last updated at 10/16/2021 12:45 UTC by Github Actions<!-- Updatetime end -->
+This README was last updated at 10/16/2021 18:34 UTC by Github Actions<!-- Updatetime end -->
