@@ -8,6 +8,13 @@
 - Aug 2021 - <a href='#' target='_blank'>Business partners API integration</a><br>
 - Aug 2021 - <a href='https://book.douban.com/subject/34787347/' target='_blank'>Reading Python for DevOps</a><br><!-- Activities end -->
 <br>
+<table>
+    <tr>
+        <td><img src="https://images.unsplash.com/photo-1623056008274-5d4a8bc7f18f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ0NjQ0Mzg&ixlib=rb-1.2.1&q=80&w=200" /></td>
+        <td><img src="https://images.unsplash.com/photo-1619355458389-328dc07ef57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ0NjQ0Mzg&ixlib=rb-1.2.1&q=80&w=200" /></td>
+        <td><img src="https://images.unsplash.com/photo-1623055918989-b4b50c7bc1a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ0NjQ0Mzg&ixlib=rb-1.2.1&q=80&w=200" /></td>
+    </tr>
+</table>
 <!-- Weather start -->
 As of last update, the weather in Shenzhen :- <br>
 It is 32.7 &#8451;, overcast clouds<br>
