@@ -22,8 +22,8 @@
 
 <!-- Weather start -->
 As of last update, the weather in Shenzhen :- <br>
-It is 24.4 &#8451;, broken clouds<br>
-Wind speed is 4.7 m/s<br>
-Local date time is 10/17/2021 18:21<br><!-- Weather end -->
+It is 26.2 &#8451;, few clouds<br>
+Wind speed is 1.5 m/s<br>
+Local date time is 10/18/2021 18:34<br><!-- Weather end -->
 <!-- Updatetime start -->
-<center><h8>This README was last updated at 10/17/2021 10:21 UTC by Github Actionsi</h8></center><!-- Updatetime end -->
+This README was last updated at 10/18/2021 10:34 UTC by Github Actions<!-- Updatetime end -->
