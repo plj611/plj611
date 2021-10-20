@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OPENWEATHER_KEY: ${{ secrets.OPENWEATHER_KEY }}
+      UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
     steps:
       - name: Checkout the repo
         uses: actions/checkout@v2
