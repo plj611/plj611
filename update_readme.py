@@ -2,6 +2,7 @@ import re
 from datetime import datetime, tzinfo, timedelta
 import os
 import requests
+from requests.exceptions import URLRequired
 
 class Zone(tzinfo):
     def __init__(self,offset,isdst,name):
@@ -50,6 +51,25 @@ Wind speed is {wind_speed} m/s<br>
 Local date time is {local_datetime}<br>'''
     return w
 
+def get_pictures():
+    unsplash_key = os.getenv('UNSPLASH_KEY')
+    apistr = f"https://api.unsplash.com/photos/random?query=china-architecture&orientation=portrait&count=3&client_id={unsplash_key}"
+    pic_result = requests.get(apistr).json()
+
+    pictures = []
+    for pic in pic_result:
+        tmp = {'width': 200, 'height': round(pic['height'] / (pic['width'] / 200)), 'url': pic['urls']['thumb']}
+        pictures.append(tmp)
+    
+    pictures = sorted(pictures, key=lambda k: k['height'])
+    h = pictures[0]['height']
+    imgs = ""
+    for pic in pictures:
+        tmp = f"<img width=\"{pic['width']}\" height=\"{h}\" src=\"{pic['url']}\" /> "
+        imgs = imgs + tmp
+
+    return f'<p>{imgs}</p>'
+
 def get_datetimenow():
     now = datetime.utcnow()
     return f"This README was last updated at {now.strftime('%m/%d/%Y %H:%M')} UTC by Github Actions"
@@ -71,6 +91,10 @@ if __name__ == '__main__':
 
     weather = get_weathernow()
     newme = update_me('Weather', me, weather)
+    me = newme
+
+    picture = get_pictures()
+    newme = update_me('Picture', me, picture)
     me = newme
 
     with open('README.md', 'w') as fd_me:
