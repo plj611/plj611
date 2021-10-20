@@ -20,9 +20,9 @@
 <hr size='8' width='90%'>
 
 <!-- Weather start -->
-As of last update, the weather in Shenzhen :- <br>
-It is 32.4 &#8451;, overcast clouds<br>
-Wind speed is 3.7 m/s<br>
-Local date time is 10/20/2021 12:03<br><!-- Weather end -->
+<p align="center">As of last update, the weather in Shenzhen :-<br>
+It is 31.1 &#8451;, broken clouds<br>
+Wind speed is 4.0 m/s<br>
+Local date time is 10/20/2021 16:27<br></p><!-- Weather end -->
 <!-- Updatetime start -->
 This README was last updated at 10/20/2021 04:03 UTC by Github Actions<!-- Updatetime end -->

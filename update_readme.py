@@ -45,10 +45,10 @@ def get_weathernow():
 
     CNT = Zone(8, False, 'CNT')
     local_datetime = datetime.now(CNT).strftime('%m/%d/%Y %H:%M')
-    w = f'''As of last update, the weather in {loc} :- <br>
+    w = f'''<p align="center">As of last update, the weather in {loc} :- <br>
 It is {feels_like} &#8451;, {description}<br>
 Wind speed is {wind_speed} m/s<br>
-Local date time is {local_datetime}<br>'''
+Local date time is {local_datetime}<br></p>'''
     return w
 
 def get_pictures():
