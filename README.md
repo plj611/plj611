@@ -3,7 +3,6 @@
 <!-- <img align='right' src="https://media.giphy.com/media/3o6ZsWiPs8bx32YWyY/giphy.gif" width="300" /> -->
 
 <p alight="left">My name is Patrick and I am a system specialist working in Shenzhen. Keeping the network and systems operating are my normal daily routine. I also work a bit in system integration using RestFul API. In the quiet times, I like to spend time and mess around with Python, DevOps stuff like Docker, Kubernetes.</p>
-<br>
 <h3>My recent activities</h3>
 <!-- Activities start -->
 - Sep 2021 - <a href='https://docs.github.com/en/actions' target='_blank'>Use Github Actions to update this README</a><br>
