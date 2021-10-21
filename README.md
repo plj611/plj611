@@ -1,4 +1,4 @@
-<h3> Hi :wave:, nice to meet you! </h3>
+<h1> Hi :wave:, nice to meet you! </h1>
 
 <!-- <img align='right' src="https://media.giphy.com/media/3o6ZsWiPs8bx32YWyY/giphy.gif" width="300" /> -->
 
