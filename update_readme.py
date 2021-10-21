@@ -72,7 +72,7 @@ def get_pictures():
 
 def get_datetimenow():
     now = datetime.utcnow()
-    return f"<h5><p align=\"center\">This README was last updated at {now.strftime('%m/%d/%Y %H:%M')} UTC by Github Actions</p></h5>"
+    return f"<p align=\"center\" style=\"font-size:90%\">This README was last updated at {now.strftime('%m/%d/%Y %H:%M')} UTC by Github Actions</p>"
 
 def update_me(section, me, contents):
     reexp = f"(?P<Part1><!-- {section} start -->\n)(?P<Part2>[\s\S]+)(?P<Part3><!-- {section} end -->)"
