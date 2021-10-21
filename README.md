@@ -12,7 +12,6 @@
 <h3>Ni Hao! This means hello in Chinese!</h3>
 <!-- Picture start -->
 <p><img width="200" height="300" src="https://images.unsplash.com/photo-1566250766392-af8b74e8c06c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ3ODYyNzg&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1516245266743-983948b98d53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ3ODYyNzg&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1605658782236-54c8632c7619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ3ODYyNzg&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
-<br>
 <p>Above are 3 random pictures showing some nice China architecture posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
 
 <hr size='8' width='90%'>
