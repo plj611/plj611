@@ -8,7 +8,6 @@
 - Sep 2021 - <a href='https://docs.github.com/en/actions' target='_blank'>Use Github Actions to update this README</a><br>
 - Aug 2021 - <a href='#' target='_blank'>Business partners API integration</a><br>
 - Aug 2021 - <a href='https://book.douban.com/subject/34787347/' target='_blank'>Reading Python for DevOps</a><br><!-- Activities end -->
-<br>
 
 <h3>Ni Hao! This means hello in Chinese!</h3>
 <!-- Picture start -->
