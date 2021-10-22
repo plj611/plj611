@@ -11,11 +11,7 @@
 
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
-<<<<<<< HEAD
-<p><img width="200" height="300" src="https://images.unsplash.com/photo-1547434836-398fc5a73e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ3ODg0Njk&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1619626763255-6f020326d025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ3ODg0Njk&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ3ODg0Njk&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
-<p>Above are 3 random pictures showing some nice China architecture :classical_building: posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
-=======
-<p><img width="200" height="267" src="https://images.unsplash.com/photo-1560429210-bc7233d2e8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NjY4MDE&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="267" src="https://images.unsplash.com/photo-1567943183748-3a7542120c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NjY4MDE&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="267" src="https://images.unsplash.com/photo-1607143931630-710ecb40a66e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NjY4MDE&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
+<p><img width="200" height="267" src="https://images.unsplash.com/photo-1546488854-29722671e979?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzI4NTg&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="267" src="https://images.unsplash.com/photo-1624489051298-f9987dfdb5e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzI4NTg&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="267" src="https://images.unsplash.com/photo-1508991676362-56dfd8bb9a1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzI4NTg&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice China architecture posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
 >>>>>>> 9444b653758dd4f259cb00cfef05cae562e1d621
 
@@ -23,8 +19,8 @@
 
 <!-- Weather start -->
 <p align="center">As of last update, the weather in Shenzhen :- <br>
-It is 18.4 &#8451;, overcast clouds<br>
-Wind speed is 5.3 m/s<br>
-Local date time is 10/22/2021 09:40<br></p><!-- Weather end -->
+It is 19.2 &#8451;, overcast clouds<br>
+Wind speed is 5.2 m/s<br>
+Local date time is 10/22/2021 11:20<br></p><!-- Weather end -->
 <!-- Updatetime start -->
-<p align="center" style="font-size:90%">This README was last updated at 10/22/2021 01:40 UTC by Github Actions</p><!-- Updatetime end -->
+<p align="center" style="font-size:90%">This README was last updated at 10/22/2021 03:20 UTC by Github Actions</p><!-- Updatetime end -->
