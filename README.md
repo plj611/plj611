@@ -13,7 +13,6 @@
 <!-- Picture start -->
 <p><img width="200" height="267" src="https://images.unsplash.com/photo-1546488854-29722671e979?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzI4NTg&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="267" src="https://images.unsplash.com/photo-1624489051298-f9987dfdb5e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzI4NTg&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="267" src="https://images.unsplash.com/photo-1508991676362-56dfd8bb9a1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzI4NTg&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice China architecture posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
->>>>>>> 9444b653758dd4f259cb00cfef05cae562e1d621
 
 <hr size='8' width='90%'>
 
