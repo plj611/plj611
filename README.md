@@ -14,6 +14,9 @@
 <p><img width="200" height="250" src="https://images.unsplash.com/photo-1513345407170-3f7ecd3b7d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzMzMDk&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="250" src="https://images.unsplash.com/photo-1508991399032-9cf2f7f791e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzMzMDk&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="250" src="https://images.unsplash.com/photo-1514909504791-e1b0dcef03ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4NzMzMDk&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice China architecture posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
 
+<h3>You can also find me at :point_down:</h3>
+<p><a href="https://www.linkedin.com/in/patrick-law" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</P>
 <hr size='8' width='90%'>
 
 <!-- Weather start -->
