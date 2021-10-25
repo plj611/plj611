@@ -12,7 +12,7 @@
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
 <p><img width="200" height="250" src="https://images.unsplash.com/photo-1513345407170-3f7ecd3b7d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4ODkyOTI&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="250" src="https://images.unsplash.com/photo-1544358610-28dfb3cc81bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4ODkyOTI&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="250" src="https://images.unsplash.com/photo-1597136490746-6006e6382735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzQ4ODkyOTI&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
-<p>Above are 3 random pictures showing some nice China architecture posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
+<p>Above are 3 random pictures showing some nice architecture in China (old or modern) which posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
 
 <h3>You can also find me at :point_down:</h3>
 <p><a href="https://www.linkedin.com/in/patrick-law" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
