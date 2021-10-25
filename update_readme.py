@@ -3,6 +3,8 @@ from datetime import datetime, tzinfo, timedelta
 import os
 import requests
 from requests.exceptions import URLRequired
+import random
+import time
 
 class Zone(tzinfo):
     def __init__(self,offset,isdst,name):
@@ -54,7 +56,11 @@ Local date time is {local_datetime}<br></p>'''
 def get_pictures():
     unsplash_key = os.getenv('UNSPLASH_KEY')
     apistr = f"https://api.unsplash.com/photos/random?query=china-architecture&orientation=portrait&count=3&client_id={unsplash_key}"
-    pic_result = requests.get(apistr).json()
+    tries = random.randint(1, 5)
+    for i in range(tries):
+        print(f"Try: {i}")
+        pic_result = requests.get(apistr).json()
+        time.sleep(2)
 
     pictures = []
     for pic in pic_result:
