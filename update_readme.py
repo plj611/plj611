@@ -55,7 +55,9 @@ Local date time is {local_datetime}<br></p>'''
 
 def get_pictures():
     unsplash_key = os.getenv('UNSPLASH_KEY')
-    apistr = f"https://api.unsplash.com/photos/random?query=china-architecture&orientation=portrait&count=3&client_id={unsplash_key}"
+    orientation = "portrait" if random.random() < 0.5 else "landscape"
+    print(f"Picture orientation: {orientation}")
+    apistr = f"https://api.unsplash.com/photos/random?query=china-architecture&orientation={orientation}&count=3&client_id={unsplash_key}"
     tries = random.randint(1, 5)
     for i in range(tries):
         print(f"Try: {i}")
