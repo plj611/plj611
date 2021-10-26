@@ -11,7 +11,7 @@
 
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
-<p><img width="200" height="300" src="https://images.unsplash.com/photo-1597052143138-4165bf167e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzUxODY5NTc&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1605658782236-54c8632c7619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzUxODY5NTc&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1583561570764-56e1cf9f37d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzUxODY5NTc&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
+<p><img width="200" height="300" src="https://images.unsplash.com/photo-1505259341540-280be642cfaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzUyMTE2NjQ&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1566113628069-1c878a36a97f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzUyMTE2NjQ&ixlib=rb-1.2.1&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1564632302120-dbbb2414af19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzUyMTE2NjQ&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice architecture in China (old or modern) which posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a></p>
 
 <h3>You can also find me at :point_down:</h3>
@@ -21,8 +21,8 @@
 
 <!-- Weather start -->
 <p align="center">As of last update, the weather in Shenzhen :- <br>
-It is 23.1 &#8451;, light rain<br>
-Wind speed is 2.0 m/s<br>
-Local date time is 10/26/2021 02:35<br></p><!-- Weather end -->
+It is 24.6 &#8451;, light rain<br>
+Wind speed is 2.5 m/s<br>
+Local date time is 10/26/2021 09:27<br></p><!-- Weather end -->
 <!-- Updatetime start -->
-<p align="center" style="font-size:90%">This README was last updated at 10/25/2021 18:35 UTC by Github Actions</p><!-- Updatetime end -->
+<p align="center" style="font-size:90%">This README was last updated at 10/26/2021 01:27 UTC by Github Actions</p><!-- Updatetime end -->
