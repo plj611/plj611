@@ -2,7 +2,7 @@ name: build-readme
 on: 
     push:
     schedule:
-      - cron: '16 0/6 * * *'
+      - cron: '16 0/12 * * *'
 jobs:
   start-update:
     runs-on: ubuntu-latest
@@ -25,7 +25,7 @@ jobs:
       - name: Commit to repo
         run: |-
           git diff
-          git config --global user.email "plj611@outlook.com"
+          git config --global user.email "plj611-autobot@outlook.com"
           git config --global user.name "plj611-autobot"
           git pull
           git add -A
