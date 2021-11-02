@@ -66,14 +66,19 @@ def get_pictures():
 
     pictures = []
     for pic in pic_result:
-        tmp = {'width': 200, 'height': round(pic['height'] / (pic['width'] / 200)), 'url': pic['urls']['thumb']}
+        c =  pic['location']['city'] if pic['location']['country'] == 'China' and pic['location']['city'] != None else ''
+        tmp = {'width': 200, 'height': round(pic['height'] / (pic['width'] / 200)), 'url': pic['urls']['thumb'], 'city': c}
         pictures.append(tmp)
     
     pictures = sorted(pictures, key=lambda k: k['height'])
     h = pictures[0]['height']
     imgs = ""
     for pic in pictures:
-        tmp = f"<img width=\"{pic['width']}\" height=\"{h}\" src=\"{pic['url']}\" /> "
+        if pic['city'] != '':
+            tmp = f"<img width=\"{pic['width']}\" height=\"{h}\" src=\"{pic['url']}\" title=\"City: {pic['city']}\" /> "
+        else:
+            tmp = f"<img width=\"{pic['width']}\" height=\"{h}\" src=\"{pic['url']}\" /> "
+
         imgs = imgs + tmp
 
     return f'<p>{imgs}</p>'
