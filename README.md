@@ -11,7 +11,7 @@
 
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
-<p><img width="200" height="250" src="https://images.unsplash.com/photo-1555088467-a779cbe85d05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQwMjQyNDc&ixlib=rb-1.2.1&q=80&w=200" title="City: Beijing" /> <img width="200" height="250" src="https://images.unsplash.com/photo-1646632516158-e26e4e7078ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQwMjQyNDc&ixlib=rb-1.2.1&q=80&w=200" title="City: Suzhou" /> <img width="200" height="250" src="https://images.unsplash.com/photo-1569165755113-39241c139cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQwMjQyNDc&ixlib=rb-1.2.1&q=80&w=200" /> </p><!-- Picture end -->
+<p><img width="200" height="132" src="https://images.unsplash.com/photo-1647083423346-f33eae634d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQwNzUyMTI&ixlib=rb-1.2.1&q=80&w=200" title="City: Foshan" /> <img width="200" height="132" src="https://images.unsplash.com/photo-1505178041309-ad46d2e4207b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQwNzUyMTI&ixlib=rb-1.2.1&q=80&w=200" title="City: Guangzhou" /> <img width="200" height="132" src="https://images.unsplash.com/photo-1601203084563-c3f270c893e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQwNzUyMTI&ixlib=rb-1.2.1&q=80&w=200" title="City: Beijing" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice architecture in China (old or modern) which posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a>.<br>Point at the pictures :world_map: to see where are they!</p>
 
 <h3>You can also find me at :point_down:</h3>
@@ -21,8 +21,8 @@
 
 <!-- Weather start -->
 <p align="center">As of last update, the weather in Shenzhen :- <br>
-It is 32.1 &#8451;, few clouds<br>
-Wind speed is 3.5 m/s<br>
-Local date time is 09/24/2022 20:57<br></p><!-- Weather end -->
+It is 37.6 &#8451;, scattered clouds<br>
+Wind speed is 1.4 m/s<br>
+Local date time is 09/25/2022 11:06<br></p><!-- Weather end -->
 <!-- Updatetime start -->
-<p align="center" style="font-size:90%">This README was last updated at 09/24/2022 12:57 UTC by Github Actions</p><!-- Updatetime end -->
+<p align="center" style="font-size:90%">This README was last updated at 09/25/2022 03:06 UTC by Github Actions</p><!-- Updatetime end -->
