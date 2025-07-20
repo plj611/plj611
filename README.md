@@ -11,7 +11,7 @@
 
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
-<p><img width="200" height="284" src="https://images.unsplash.com/photo-1732123250214-7de5ce73d3c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5Mjk4NDF8&ixlib=rb-4.1.0&q=80&w=200" title="City: Wuhan" /> <img width="200" height="284" src="https://images.unsplash.com/photo-1601949117553-68a5936cf9a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5Mjk4NDF8&ixlib=rb-4.1.0&q=80&w=200" title="City: Zhuhai Shi" /> <img width="200" height="284" src="https://images.unsplash.com/photo-1652773614023-fed4e8dcd1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5Mjk4NDF8&ixlib=rb-4.1.0&q=80&w=200" title="City: Chongqing" /> </p><!-- Picture end -->
+<p><img width="200" height="133" src="https://images.unsplash.com/photo-1603075224724-8b99ffd6d284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5NzkxMDZ8&ixlib=rb-4.1.0&q=80&w=200" title="City: Beijing" /> <img width="200" height="133" src="https://images.unsplash.com/photo-1617758023838-8a0cd5b0d4d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5NzkxMDZ8&ixlib=rb-4.1.0&q=80&w=200" /> <img width="200" height="133" src="https://images.unsplash.com/photo-1718749742771-d33cd3719fab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5NzkxMDZ8&ixlib=rb-4.1.0&q=80&w=200" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice architecture in China (old or modern) which posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a>.<br>Point at the pictures :world_map: to see where are they!</p>
 
 <h3>You can also find me at :point_down:</h3>
@@ -21,8 +21,8 @@
 
 <!-- Weather start -->
 <p align="center">As of last update, the weather in Shenzhen :- <br>
-It is 32.6 &#8451;, moderate rain<br>
-Wind speed is 5.2 m/s<br>
-Local date time is 07/19/2025 20:57<br></p><!-- Weather end -->
+It is 26.2 &#8451;, light rain<br>
+Wind speed is 13.1 m/s<br>
+Local date time is 07/20/2025 10:38<br></p><!-- Weather end -->
 <!-- Updatetime start -->
-<p align="center" style="font-size:90%">This README was last updated at 07/19/2025 12:57 UTC by Github Actions</p><!-- Updatetime end -->
+<p align="center" style="font-size:90%">This README was last updated at 07/20/2025 02:38 UTC by Github Actions</p><!-- Updatetime end -->
