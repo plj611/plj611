@@ -11,7 +11,7 @@
 
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
-<p><img width="200" height="300" src="https://images.unsplash.com/photo-1696826273152-1adb7cf02cce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NzA0OTN8&ixlib=rb-4.1.0&q=80&w=200" title="City: Yangzhou" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1704721298106-99f22b6c22df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NzA0OTN8&ixlib=rb-4.1.0&q=80&w=200" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1710397579601-cfbfa8cffe05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NzA0OTN8&ixlib=rb-4.1.0&q=80&w=200" title="City: Shenzhen" /> </p><!-- Picture end -->
+<p><img width="200" height="300" src="https://images.unsplash.com/photo-1684292105008-d52bd05a0e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2MDU2MjR8&ixlib=rb-4.1.0&q=80&w=200" title="City: Baoshan" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1703401908432-aa7385175477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2MDU2MjR8&ixlib=rb-4.1.0&q=80&w=200" title="City: Beijing" /> <img width="200" height="300" src="https://images.unsplash.com/photo-1698047557839-729e35848b3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2MDU2MjR8&ixlib=rb-4.1.0&q=80&w=200" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice architecture in China (old or modern) which posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a>.<br>Point at the pictures :world_map: to see where are they!</p>
 
 <h3>You can also find me at :point_down:</h3>
@@ -21,8 +21,8 @@
 
 <!-- Weather start -->
 <p align="center">As of last update, the weather in Shenzhen :- <br>
-It is 24.0 &#8451;, clear sky<br>
-Wind speed is 3.8 m/s<br>
-Local date time is 04/19/2026 11:48<br></p><!-- Weather end -->
+It is 26.4 &#8451;, scattered clouds<br>
+Wind speed is 3.1 m/s<br>
+Local date time is 04/19/2026 21:33<br></p><!-- Weather end -->
 <!-- Updatetime start -->
-<p align="center" style="font-size:90%">This README was last updated at 04/19/2026 03:48 UTC by Github Actions</p><!-- Updatetime end -->
+<p align="center" style="font-size:90%">This README was last updated at 04/19/2026 13:33 UTC by Github Actions</p><!-- Updatetime end -->
