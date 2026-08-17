@@ -11,7 +11,7 @@
 
 <h3>Ni Hao! :sunglasses: This means hello in Chinese!</h3>
 <!-- Picture start -->
-<p><img width="200" height="133" src="https://images.unsplash.com/photo-1535215892018-da04de009704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MzE1Nzh8&ixlib=rb-4.1.0&q=80&w=200" /> <img width="200" height="133" src="https://images.unsplash.com/photo-1663054332256-250e56da589f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MzE1Nzh8&ixlib=rb-4.1.0&q=80&w=200" title="City: Chengdu" /> <img width="200" height="133" src="https://images.unsplash.com/photo-1573657860396-d7b1656adc53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MzE1Nzh8&ixlib=rb-4.1.0&q=80&w=200" /> </p><!-- Picture end -->
+<p><img width="200" height="100" src="https://images.unsplash.com/photo-1698047558128-f2a36361b2e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NzE3ODl8&ixlib=rb-4.1.0&q=80&w=200" /> <img width="200" height="100" src="https://images.unsplash.com/photo-1665323340701-3d1d7ed5ce96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NzE3ODl8&ixlib=rb-4.1.0&q=80&w=200" title="City: Foshan" /> <img width="200" height="100" src="https://images.unsplash.com/photo-1540296777082-fc7bf935f673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjYzMzV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NzE3ODl8&ixlib=rb-4.1.0&q=80&w=200" title="City: Beijing" /> </p><!-- Picture end -->
 <p>Above are 3 random pictures showing some nice architecture in China (old or modern) which posted in <a href='https://unsplash.com/' target='_blank'>Unsplash</a>.<br>Point at the pictures :world_map: to see where are they!</p>
 
 <h3>You can also find me at :point_down:</h3>
@@ -21,8 +21,8 @@
 
 <!-- Weather start -->
 <p align="center">As of last update, the weather in Shenzhen :- <br>
-It is 39.5 &#8451;, overcast clouds<br>
-Wind speed is 1.3 m/s<br>
-Local date time is 08/17/2026 09:52<br></p><!-- Weather end -->
+It is 36.0 &#8451;, overcast clouds<br>
+Wind speed is 2.3 m/s<br>
+Local date time is 08/17/2026 21:03<br></p><!-- Weather end -->
 <!-- Updatetime start -->
-<p align="center" style="font-size:90%">This README was last updated at 08/17/2026 01:52 UTC by Github Actions</p><!-- Updatetime end -->
+<p align="center" style="font-size:90%">This README was last updated at 08/17/2026 13:03 UTC by Github Actions</p><!-- Updatetime end -->
